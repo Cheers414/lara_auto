@@ -4,7 +4,7 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "LaraNcut\\Auto\\": "src/"
+            "LaraNcut\\Auto\\": "src/LaraNcut"
         }
     },
     "authors": [
@@ -14,4 +14,5 @@
         }
     ],
     "require": {}
+    
 }
